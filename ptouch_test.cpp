@@ -12,4 +12,5 @@ using namespace std;
 #define VERSION 0.1
 int ptouch_test() {
     cout << "P-Touch Test Version " << VERSION << endl;
+    return 0;
 }

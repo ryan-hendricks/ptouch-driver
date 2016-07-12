@@ -1,4 +1,0 @@
-#ifndef PTOUCHDRIVER_H
-#define PTOUCHDRIVER_H
-
-#endif // PTOUCHDRIVER_H
